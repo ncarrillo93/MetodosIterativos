@@ -1,0 +1,5 @@
+{
+    "resmon.show.cputemp": true,
+    "resmon.show.disk": true,
+    "resmon.disk.format": ""
+}
